@@ -17,14 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/trpubz/IOS101-Prework/assets/25095319/f65b9a6e-eab9-4f8a-8e66-1ce6db293b02)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with [gifski-cli](https://github.com/ImageOptim/gifski)
 
 ## App Brainstorming (Step 4)
 
@@ -36,12 +32,12 @@ GIF created with ...
     - Widget functionality
 - Notion
     - Wide-spectrum functionality 
-    - Embeded databases
+    - Embedded databases
     - page/project linkability
 - Linear
     - track projects/roadmaps
     - graphical analytics
-    - github integration/automated tracking
+    - GitHub integration/automated tracking
     
 ### App Idea
 
